@@ -1,4 +1,7 @@
-# MYSQL-ASSIGNMENT-2---CLAUSES-AND-JOINS
+# MYSQL-ASSIGNMENT-2---CLAUSES-AND-JOINS.  
+
+DRIVE LINK : https://drive.google.com/drive/folders/1o-CAa3OXZasvHtW5GcR9jg4R6K8lu14h?usp=drive_link 
+
 
 This assignment focuses on using MySQL to retrieve, filter, organize, analyze, and combine data from an employee database.
 
